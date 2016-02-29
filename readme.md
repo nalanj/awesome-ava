@@ -29,6 +29,7 @@
 - [fly-ava](https://github.com/pine613/fly-ava) - Run tests with fly
 - [start-ava](https://github.com/start-runner/ava) - Run tests with start
 - [sigh-ava](https://github.com/unlight/sigh-ava) - Run tests with sigh
+- [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for redux
 
 
 ## Support
