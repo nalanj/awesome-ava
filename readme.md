@@ -9,6 +9,7 @@
 
 - [Articles](#articles)
 - [Packages](#packages)
+- [Tutorials & Workshops](#tutorials--workshops)
 - [Support](#support)
 - [Miscellaneous](#miscellaneous)
 
@@ -30,6 +31,11 @@
 - [start-ava](https://github.com/start-runner/ava) - Run tests with start.
 - [sigh-ava](https://github.com/unlight/sigh-ava) - Run tests with sigh.
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux.
+
+
+## Tutorials & Workshops
+
+- [React + AVA = :heart:](https://github.com/kentcdodds/react-ava-workshop)
 
 
 ## Support
