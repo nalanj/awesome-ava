@@ -8,10 +8,11 @@
 ## Table of Contents
 
 - [Articles](#articles)
+- [Videos](#videos)
 - [Packages](#packages)
 - [Tutorials & Workshops](#tutorials--workshops)
-- [Support](#support)
 - [Miscellaneous](#miscellaneous)
+- [Support](#support)
 
 
 ## Articles
@@ -19,23 +20,28 @@
 - [Recipes](https://github.com/sindresorhus/ava/tree/master/docs/recipes)
 
 
+## Videos
+
+- [JavaScript Air episode with the AVA team](http://jsair.io/ava)
+
+
 ## Packages
 
-- [sublime-ava](https://github.com/sindresorhus/sublime-ava) - Snippets for AVA tests.
-- [atom-ava](https://github.com/sindresorhus/atom-ava) - Snippets for AVA tests.
-- [vscode-ava](https://github.com/samverschueren/vscode-ava) - Snippets for AVA tests.
-- [eslint-plugin-ava](https://github.com/sindresorhus/eslint-plugin-ava) - Lint rules for AVA tests.
-- [gulp-ava](https://github.com/sindresorhus/gulp-ava) - Run tests with gulp.
-- [grunt-ava](https://github.com/sindresorhus/grunt-ava) - Run tests with grunt.
-- [fly-ava](https://github.com/pine/fly-ava) - Run tests with fly.
-- [start-ava](https://github.com/start-runner/ava) - Run tests with start.
-- [sigh-ava](https://github.com/unlight/sigh-ava) - Run tests with sigh.
+- [eslint-plugin-ava](https://github.com/sindresorhus/eslint-plugin-ava) - ESLint rules.
+- [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions.
+- [sublime-ava](https://github.com/sindresorhus/sublime-ava) - Snippets for Sublime.
+- [atom-ava](https://github.com/sindresorhus/atom-ava) - Snippets for Atom.
+- [vscode-ava](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code.
+- [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim.
+- [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers.
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux.
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app.
-- [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods for AVA that simplifies upgrading to newer versions.
-- [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers.
-- [spectron](https://github.com/kevinsawicki/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
-- [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for AVA tests.
+- [spectron](https://github.com/electron/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
+- [gulp-ava](https://github.com/sindresorhus/gulp-ava) - Run tests with Gulp.
+- [grunt-ava](https://github.com/sindresorhus/grunt-ava) - Run tests with Grunt.
+- [fly-ava](https://github.com/pine/fly-ava) - Run tests with Fly.
+- [start-ava](https://github.com/start-runner/ava) - Run tests with Start.
+- [sigh-ava](https://github.com/unlight/sigh-ava) - Run tests with Sigh.
 
 
 ## Tutorials & Workshops
@@ -43,17 +49,16 @@
 - [React + AVA = :heart:](https://github.com/kentcdodds/react-ava-workshop)
 
 
+## Miscellaneous
+
+- [Stickers](https://www.stickermule.com/user/1070705604/stickers)
+
+
 ## Support
 
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
 - [Gitter chat](https://gitter.im/sindresorhus/ava)
 - [Twitter](https://twitter.com/ava__js)
-
-
-## Miscellaneous
-
-- [Stickers](https://www.stickermule.com/user/1070705604/stickers)
-- [JavaScript Air episode with the AVA team](http://jsair.io/ava)
 
 
 ## License
