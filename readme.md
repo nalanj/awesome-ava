@@ -42,6 +42,7 @@
 - [fly-ava](https://github.com/pine/fly-ava) - Run tests with Fly.
 - [start-ava](https://github.com/start-runner/ava) - Run tests with Start.
 - [sigh-ava](https://github.com/unlight/sigh-ava) - Run tests with Sigh.
+- [ava-rethinkdb](https://github.com/rrdelaney/ava-rethinkdb) - Test helpers for RethinkDB.
 
 
 ## Works with AVA
