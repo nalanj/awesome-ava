@@ -19,6 +19,7 @@
 ## Articles
 
 - [Recipes](https://github.com/avajs/ava/tree/master/docs/recipes)
+- [Testing React Native apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3)
 
 
 ## Videos
