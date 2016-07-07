@@ -5,7 +5,7 @@
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 
-## Table of Contents
+## Contents
 
 - [Articles](#articles)
 - [Videos](#videos)
