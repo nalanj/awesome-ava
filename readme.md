@@ -61,6 +61,7 @@
 ## Miscellaneous
 
 - [Stickers](https://www.stickermule.com/user/1070705604/stickers)
+- [Slides from AVA talk at London Node User Group](https://speakerdeck.com/novemberborn/ava-at-lnug) - By core team member [Mark Wubben](https://github.com/novemberborn).
 
 
 ## Support
