@@ -11,7 +11,7 @@
 - [Videos](#videos)
 - [Packages](#packages)
 - [Works with AVA](#works-with-ava)
-- [Tutorials & Workshops](#tutorials--workshops)
+- [Tutorials](#tutorials)
 - [Miscellaneous](#miscellaneous)
 - [Support](#support)
 
@@ -64,9 +64,8 @@
 - [get-stream](https://github.com/sindresorhus/get-stream) - Test the output of streams. [(Example)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35)
 
 
-## Tutorials & Workshops
+## Tutorials
 
-- [React + AVA = :heart:](https://github.com/kentcdodds/react-ava-workshop)
 - [Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/) - A comprehensive series of tutorials about testing a React and Redux project using AVA.
 
 
