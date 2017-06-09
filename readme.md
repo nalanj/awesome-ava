@@ -50,6 +50,7 @@
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift](https://github.com/facebook/jscodeshift) codemods with AVA.
 - [ava-preact-init](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact.
 - [ava-check](https://github.com/leebyron/testcheck-js/tree/master/integrations/ava-check) - Generative property testing with [`TestCheck.js`](https://github.com/leebyron/testcheck-js).
+- [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA.
 
 
 ## Works with AVA
