@@ -75,7 +75,7 @@
 
 ## Miscellaneous
 
-- [Stickers](https://www.stickermule.com/user/1070705604/stickers)
+- [Stickers, t-shirts, etc](https://www.redbubble.com/people/sindresorhus/works/30330590-ava-logo) - The products are sold at production price without any markup.
 - [Slides from AVA talk at London Node User Group](https://speakerdeck.com/novemberborn/ava-at-lnug) - By core team member [Mark Wubben](https://github.com/novemberborn).
 
 
