@@ -82,7 +82,7 @@
 ## Support
 
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
-- [Gitter chat](https://gitter.im/avajs/ava)
+- [Spectrum](https://spectrum.chat/ava)
 - [Twitter](https://twitter.com/ava__js)
 
 
