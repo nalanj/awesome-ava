@@ -61,10 +61,6 @@
 - [get-stream](https://github.com/sindresorhus/get-stream) - Test the output of streams. [(Example)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35)
 - [create-test-server](https://github.com/lukechilds/create-test-server) - Creates a minimal Express server for testing. [(Example)](https://github.com/lukechilds/clone-response/blob/11f5870e4e1b039e2d9a8f1f72d45fd1b9706bf3/test/clone-response.js)
 
-## Tutorials
-
-- [Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/) - A comprehensive series of tutorials about testing a React and Redux project using AVA.
-
 ## Miscellaneous
 
 - [Stickers, t-shirts, etc](https://www.redbubble.com/people/sindresorhus/works/30330590-ava-logo) - The products are sold at production price without any markup.
